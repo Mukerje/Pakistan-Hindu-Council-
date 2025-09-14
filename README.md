@@ -14,9 +14,9 @@ This interactive dashboard was created using data from the Pakistan Hindu Counci
 
 The project demonstrates skills in data cleaning, visualization, and storytelling using tools like Power BI. It aims to provide a clear, visual overview of minority religious communities in Pakistan to support research and policy understanding.
 
-Tools Used:
+**Tools Used:
 Power BI
 Microsoft Excel (for preprocessing)
-
+**
 Screenshot: ![Dashboard preview]. (https://github.com/Mukerje/Pakistan-Hindu-Council-/blob/main/PHC%20screen%20shot.png)
 <img width="1446" height="807" alt="PHC screen shot" src="https://github.com/user-attachments/assets/a6aa282d-e2fa-4c97-bada-5eff67297389" />
