@@ -18,4 +18,4 @@ Tools Used:
 Power BI
 Microsoft Excel (for preprocessing)
 
-Screenshot (https://github.com/Mukerje/Pakistan-Hindu-Council-/blob/main/PHC%20screen%20shot.png)
+Screenshot: ![Dashboard preview]. (https://github.com/Mukerje/Pakistan-Hindu-Council-/blob/main/PHC%20screen%20shot.png)
